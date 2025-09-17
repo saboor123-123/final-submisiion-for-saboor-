@@ -100,7 +100,9 @@ DashboardViewModelTest → verifies entities load successfully and failure retur
 
 Used Dispatchers.setMain(testDispatcher) and advanceUntilIdle() for coroutine testing.
 
-All tests passed successfully (screenshot evidence included in report).
+All tests passed successfully <img width="1916" height="1078" alt="test dashboard pass" src="https://github.com/user-attachments/assets/33c1e94f-cb0d-480e-b87b-168917bdf6d6" />
+<img width="1918" height="1078" alt="test login pass" src="https://github.com/user-attachments/assets/1aa8b01c-a2eb-4eba-b191-a9dde0927d05" />
+
 
 📂 Project Structure
 app/src/main/java/com/example/a8070142/
@@ -148,12 +150,3 @@ Enter valid login credentials → navigate to Dashboard → select item to view 
 
  Report with screenshots + explanations.
 
-📸 Evidence
-
-Screenshots included in the report:
-
-Figma design prompts & screens.
-
-App running: Login, Dashboard, Details.
-
-JUnit test results (green checks).
